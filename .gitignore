@@ -1,0 +1,5 @@
+# undlad at putte kompilerede filer (.class) i git
+out/
+# undlad intelliJ specifikke filer i git
+.idea/
+*.iml
