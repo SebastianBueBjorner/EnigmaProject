@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 /*
-Enigma project - with Number cipher, Caesar cipher and Vigenere cipher ....
+Enigma project - with Number cipher, Caesar cipher and Vigenere cipher
  */
 
 
